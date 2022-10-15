@@ -90,7 +90,7 @@
 {"key":"*爱看资源","name":"爱看资源（慢）","type":1,"api":"http://www.aikanzyz9.com/inc/apijson_vod.php","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"*葡萄资源","name":"葡萄资源-慢","type":1,"api":"https://api.putaozy.net/inc/apijson_vod.php","searchable":1,"quickSearch":0,"filterable":0},
 
-{"key":"2345_spider","name":"2345（以下重复）","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/xuexing007/cs/raw/master/2345.bmp"},
+{"key":"2345_spider","name":"--以下重复--","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/xuexing007/cs/raw/master/2345.bmp"},
 
 {"key":"zp029","name":"JAV名优","type":0,"api":"http://mygzycj.com/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"*JAV名优馆","name":"JAV名优馆","type":0,"api":"http://mygzycj.com/api.php?ac=videolist","searchable":1,"quickSearch":0,"filterable":0},
